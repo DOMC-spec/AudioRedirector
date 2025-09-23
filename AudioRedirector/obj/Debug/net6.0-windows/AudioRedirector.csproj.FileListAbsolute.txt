@@ -1,0 +1,75 @@
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.Form1.resources
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.csproj.GenerateResource.cache
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.AssemblyInfoInputs.cache
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.AssemblyInfo.cs
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.csproj.CoreCompileInputs.cache
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\bin\Debug\net6.0-windows\AudioRedirector.exe
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\bin\Debug\net6.0-windows\AudioRedirector.deps.json
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\bin\Debug\net6.0-windows\AudioRedirector.runtimeconfig.json
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\bin\Debug\net6.0-windows\AudioRedirector.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\bin\Debug\net6.0-windows\AudioRedirector.pdb
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.csproj.AssemblyReference.cache
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.csproj.CopyComplete
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\obj\Debug\net6.0-windows\refint\AudioRedirector.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.pdb
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.genruntimeconfig.cache
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector\AudioRedirector\obj\Debug\net6.0-windows\ref\AudioRedirector.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\AudioRedirector.exe
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\AudioRedirector.deps.json
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\AudioRedirector.runtimeconfig.json
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\AudioRedirector.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\AudioRedirector.pdb
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.csproj.AssemblyReference.cache
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.Form1.resources
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.csproj.GenerateResource.cache
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.AssemblyInfoInputs.cache
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.AssemblyInfo.cs
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.csproj.CoreCompileInputs.cache
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.csproj.CopyComplete
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\refint\AudioRedirector.dll
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.pdb
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.genruntimeconfig.cache
+C:\Users\evgen\Desktop\учеба 3 курс\блютуз 2устр\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\ref\AudioRedirector.dll
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\AudioRedirector.exe
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\AudioRedirector.deps.json
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\AudioRedirector.runtimeconfig.json
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\AudioRedirector.dll
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\AudioRedirector.pdb
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.csproj.AssemblyReference.cache
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.Form1.resources
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.csproj.GenerateResource.cache
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.AssemblyInfoInputs.cache
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.AssemblyInfo.cs
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.csproj.CoreCompileInputs.cache
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRed.ABBBD89A.Up2Date
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.dll
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\refint\AudioRedirector.dll
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.pdb
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\AudioRedirector.genruntimeconfig.cache
+C:\Users\evgen\Desktop\AudioRedirector-сделано\AudioRedirector\obj\Debug\net6.0-windows\ref\AudioRedirector.dll
